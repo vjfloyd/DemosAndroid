@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleUserInterface</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje">Ingrese un mensaje</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="otro_boton">otro_boton</string>
+    <string name="title_activity_mostrar_mensaje">MostrarMensajeActivity</string>
+
+
+</resources>
